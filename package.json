@@ -64,8 +64,7 @@
     "@vercel/blob": "latest",
     "qrcode.react": "latest",
     "react-chessboard": "latest",
-    "uuid": "latest",
-    "react-markdown": "latest"
+    "uuid": "latest"
   },
   "devDependencies": {
     "@types/node": "^22",
